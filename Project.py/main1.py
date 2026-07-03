@@ -1,6 +1,6 @@
 
 # Simple Tic Tac Toe Game
-# CBSE Class 12 Level
+
 
 board = [' '] * 9
 
