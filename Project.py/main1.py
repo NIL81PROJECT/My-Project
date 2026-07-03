@@ -1,7 +1,6 @@
 
 # Simple Tic Tac Toe Game
 
-
 board = [' '] * 9
 
 def show():
